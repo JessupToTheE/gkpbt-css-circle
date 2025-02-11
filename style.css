@@ -6,3 +6,11 @@
 			width:300px;
 			height:300px;
 }
+.red {
+			background-color:crimson
+}
+.circle-red{
+			border-radius:80%;
+			width:500px;
+			height:500px;
+}
